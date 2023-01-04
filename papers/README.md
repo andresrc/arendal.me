@@ -1,4 +1,6 @@
-# Papers
+---
+title: Papers
+---
 
 ## Distributed Systems
 

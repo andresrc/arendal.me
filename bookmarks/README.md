@@ -1,4 +1,6 @@
-# Bookmarks
+---
+title: Bookmarks
+---
 
 ## Kubernetes
 
