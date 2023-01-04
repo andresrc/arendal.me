@@ -1,2 +1,5 @@
 theme: minima
 title: Andres Rodriguez
+
+minima:
+  skin: auto

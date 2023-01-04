@@ -7,6 +7,7 @@ title: Bookmarks
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/)
 * [Working with strings in Rust](https://fasterthanli.me/articles/working-with-strings-in-rust)
+* [Malachite](https://www.malachite.rs)
 
 ## Kubernetes
 
