@@ -1,2 +1,5 @@
-# arendal.me
-Repository for the arendal.me web site
+# Andres Rodriguez
+
+Hi! Welcome to my personal space. Here you will find a random selection of bookmarks, papers, books and videos.
+
+* [Bookmarks](bookmarks/)
