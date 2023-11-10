@@ -18,6 +18,14 @@ title: Bookmarks
 * [It’s Not Wrong that `"🤦🏼‍♂️".length == 7`](https://hsivonen.fi/string-length/)
 * [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/)
 
+## Interesting Projects
+
+* [Ink & Switch](https://www.inkandswitch.com)
+
+## Data Formats
+
+* [Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc8949)
+
 ## Arbitrary precision math
 
 * [Go `math/big` package](https://github.com/golang/go/tree/master/src/math/big)
