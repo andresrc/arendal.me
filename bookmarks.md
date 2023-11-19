@@ -21,6 +21,7 @@ title: Bookmarks
 ## Interesting Projects
 
 * [Ink & Switch](https://www.inkandswitch.com)
+* [Fossil](https://www.fossil-scm.org): simple, high-reliability, distributed software configuration management system.
 
 ## Data Formats
 
