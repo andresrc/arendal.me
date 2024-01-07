@@ -30,3 +30,7 @@ title: Bookmarks
 ## Arbitrary precision math
 
 * [Go `math/big` package](https://github.com/golang/go/tree/master/src/math/big)
+
+## Effects
+
+* [Kyo](https://getkyo.io)
